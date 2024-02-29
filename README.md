@@ -32,6 +32,7 @@ Configuring OkeyProxy
 7. Click on “generate” to obtain the proxy address, port, username, and password.
 
 Remember, OkeyProxy residential proxies are compatible with Socks5 and HTTP/HTTPS protocols.
+
 https://www.okeyproxy.com/en/residential-proxies
 
 ![image](https://github.com/OkeyProxyCom/Postman-API-Platform/assets/150340973/98675b68-7b78-40c8-888f-5ed99539df1e)
